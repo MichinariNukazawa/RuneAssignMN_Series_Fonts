@@ -8,7 +8,7 @@ RuneAssignMN Series Fonts. イラスト・デザイン向けルーン文字フ�
 ふつうの英文にこのフォントを使用するだけで、簡単にルーンで書かれた文章を"でっちあげる"ことができます。  
 
 フォントのデザインは[ghpages_index][]で見ることができます。  
-また、[blog_article]が用意される予定です。  
+また、[blog_article][]が用意される予定です。  
 
 
 ##より専門的な説明
@@ -68,7 +68,7 @@ pqrstuvwxyz{|}‾
  * グリフSVGファイルの入ったディレクトリを"glyph_${フォント名}"にリネーム
  * グリフ生成スクリプト(generate_rune.pe)でフォントを生成
  (または一括呼び出しスクリプト(generate_runes.sh)を起動してフォントを生成)  
-詳細は[blog_article](予定)を参照してください。  
+詳細は[blog_article][](予定)を参照してください。  
 
 ##謝辞
 以下のサイトを参考にさせていただきました。  
@@ -139,5 +139,5 @@ Select to 2-clause BSD license or other.
 ##連絡先
 michinari.nukazawa@gmail.com
 
-[ghpages_index] http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/ "サンプル"
-[blog_article] http://blog.michinari.nukazawa.com/ "ブログ記事"
+[ghpages_index]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/ "サンプル"
+[blog_article]: http://blog.michinari.nukazawa.com/ "ブログ記事"
