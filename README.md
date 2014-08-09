@@ -140,4 +140,4 @@ Select to 2-clause BSD license or other.
 michinari.nukazawa@gmail.com
 
 [ghpages_index]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/ "サンプル"
-[blog_article]: http://blog.michinari.nukazawa.com/ "ブログ記事"
+[blog_article]: http://blog.michinari-nukazawa.com/ "ブログ記事"
