@@ -1,0 +1,101 @@
+#!/usr/bin/fontforge -script
+#
+# base script by
+# mashabow＠しろもじ作業室（http://shiromoji.net, mashabow@shiromoji.net）
+#
+# 
+
+
+if ($argc != 3)
+  Print("usage: fontforge -script " + $0 + " [fontname] [version]")
+  Quit()
+endif
+
+_fontName = $1
+_version      = $2
+_fontfilename =  _fontName + "_" + _version + ".otf"
+_importfiles  = "glyphs_" + _fontName + "/u*.svg"
+
+New()
+
+# .notdef作成
+Select(0x0000)
+SetWidth(1000)
+SetGlyphName(".notdef")
+
+# エンコードにUnicodeを指定
+Reencode("unicode")
+
+
+# 半角文字の文字幅設定
+#Select(0u0020, 0u007e, 0uff61, 0uff9f)
+Select(0u0020, 0u007e)
+SetVWidth(1000)
+SetWidth(500)
+# 同高さ／深さ(ベースライン)設定
+Select(0u0020, 0u007e)
+ScaleToEm(1000, 25)
+
+# ディセント(フォント下端)
+SetOS2Value("WinDescentIsOffset"  , 0)
+SetOS2Value("HHeadDescentIsOffset", 0)
+SetOS2Value("WinDescent"  , 0)
+SetOS2Value("HHeadDescent", 0)
+# アセント(フォント高さ)
+SetOS2Value("WinAscentIsOffset", 0)
+SetOS2Value("HHeadAscentIsOffset" , 0)
+SetOS2Value("WinAscent", 1000)
+SetOS2Value("HHeadAscent" , 1000)
+
+
+# SVGをすべてインポート
+Import(_importfiles, 0)
+
+# 自動ヒントづけOFF
+SelectAll()
+DontAutoHint()
+
+
+
+# パスの統合
+RemoveOverlap()
+
+# 整数値に丸める
+RoundToInt()
+
+
+
+# 大文字を小文字にコピーする
+i = 0;
+while ( i < 26 )
+	_ucSrc =  ( i + 0u0041)
+	_ucDst =  ( i + 0u0061)
+	Select(_ucSrc); CopyReference(); Select(_ucDst); Paste()
+	++i
+endloop
+
+
+# 半角スペース作成
+Select(0u0020)
+SetWidth(500)
+
+# 全角スペース作成
+Select(0u3000)
+SetWidth(1000)
+
+# フォント情報設定
+# CIDSetFontNames(fontname[,family[,fullname[,weight[,copyright-notice]]]])
+SetFontNames(_fontName,\
+             _fontName,\
+             _fontName,\
+             "Regular",\
+             "© 2014 Michinari.Nukazawa",\
+             _version) 
+
+# OTF生成
+Generate(_fontfilename)
+Print("generated: "+ _fontfilename)
+
+Close()
+
+Quit()

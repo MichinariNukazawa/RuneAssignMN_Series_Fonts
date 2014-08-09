@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="1000" width="500" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+  <path id="path25" d="m 250,455 -112.5,-430.288 h -125 v 12.5 c 0,0 50,0.012 50,37.511 l 0.053,-0.209 -0.053,850.198 c 0,37.5 -50,37.512 -50,37.512 v 12.5 l 125,-0.012 112.688,-424.283 112.312,424.295 v -0.012 l 125,0.012 v -12.5 c 0,0 -50,0 -50,-37.5 v -850.012 c 0,-37.5 50,-37.5 50,-37.5 v -12.5 h -125 l -112.5,430.288 z m -111.5,428.37 v -754.88 l 99.069,374.268 -99.069,380.612 z m 124.097,-379.976 99.013,-375.304 0.798,758.767 -99.811,-383.463 z " inkscape:connector-curvature="0" style="fill:#040000" />
+</svg>

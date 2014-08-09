@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3500"
+   height="4000"
+   id="svg3075"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="RuneSans_outline_INK.svg">
+  <defs
+     id="defs3077" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="2533.8193"
+     inkscape:cy="2045.6205"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1225"
+     inkscape:window-height="715"
+     inkscape:window-x="405"
+     inkscape:window-y="152"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3080">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="outline"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2947.6378)">
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       id="path5"
+       d="m 3100,-1972.6378 150.482,-384.938 149.518,384.938 h 75 l -103.382,-261.9 70.884,-224.468 -75.938,-195.509 104.816,-268.123 H 3400 l -149.999,380.002 -150.001,-380.002 h -69 l 93.216,239.986 -74.216,235.02 80.595,207.497 -105.595,267.509 75,-0.012 z m 231.87,-593.129 47.858,118.129 -40.99,129.802 -52.146,-132.105 45.278,-115.826 z m -206.87,118.129 40.582,-128.514 48.432,124.686 -47.507,120.351 -41.507,-116.523 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 1470.552,-1972.6378 -345.552,-437.698 0,-512.302 -75,0 0,950 75,0.012 0,-333.345 250,333.333 z"
+       id="polygon7" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       id="path9"
+       d="m 600,-2922.6378 h -75 v 949.988 l 75,0.012 v 0.012 l 375,-260.012 v -77.848 l -289.876,-143.902 290.876,-193.25 v -87.541 l -376,-187.152 v -0.307 z m 311.836,657.585 -311.836,217.415 v -350 l 19.736,-13.157 292.1,145.742 z m 0.717,-426.638 -293.594,204.457 -18.959,-9.411 v -350.993 l 312.553,155.947 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 475,-2735.4858 -375,-186.159 0,-0.993 -75,0 0,950 75,0.012 0,-612.116 375,187.104 2,-78.807 -377,-187.152 0,-171.145 375,187.104 z"
+       id="polygon11" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 2101,-2770.4708 149,322.833 149.16,-323.18 0.84,798.18 75,0 1,-950 -76,0 0,14 -153,327.992 -146,-326.359 0,-15.633 -76,0 1,950 75,0 z"
+       id="polygon13" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 25,1027.3622 75,0 0,-175 375,-200 0,-75 -375,200 0,-150 375,-200 2,-75 -377,200 0,-475 -75,0 z"
+       id="polygon15" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       id="path17"
+       d="m 100,-1336.0468 300,140.065 v 223.344 h 75 v -950 h -75 v 425.5 l -300,-146.999 v -278.501 H 25 v 950 h 75 v -363.409 z m 0,-234.04 300,147.813 v 147.927 l -300,-139.25 v -156.49 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 712,-1922.6378 75,0 0,950 -75,0 z"
+       id="rect19" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 1712,-1421.4378 -187,448.8 75,0 112,-272 0,272 75,0 0,-274.429 113,274.429 75,0 -188,-451.2 0,-498.8 -75,0 z"
+       id="polygon21" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 2475,-1735.4858 -375,-186.159 0,-0.993 -75,0 0,950 75,0 0,-862.104 375,187.104 z"
+       id="polygon23" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 1601,-922.6378 -29,0 -46.887,0 -0.113,950 76,0 0,-849.093 224,224.093 -200,100 275,525 75,0 -250,-500 225,-100 -346,-350 z"
+       id="polygon25" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       id="path27"
+       d="m 600,77.3622 h -75 v 950 h 76 v -425.733 l 374,-274.267 -375,-250 z m 1,75.637 274,174.363 -274,192.512 v -366.875 z" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       id="path29"
+       d="m 1400,-922.3878 -3.95,-0.25 -370.823,247.939 374.773,227.218 v 474.843 h 75 v -950 h -75 v 0.25 z m -250,249.75 250,-150.912 v 287.275 l -250,-136.363 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 2725,-2622.6378 0,-1.366 -0.852,1.707 z"
+       id="polygon31" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 2601,-2598.0378 89.334,-35.734 0.055,0.149 34.685,-13.93 0.926,-1.792 0,-1.496 148,-271.797 -78.501,0 -128.503,236.002 -65.996,21.998 0,-258 -76,0 1,950 75,0 0,-500.513 163.537,-83.935 34.611,-13.845 0.852,-0.341 0,-1.366 175,-350 -75,0 -149.162,299.581 -149.838,74.919 z"
+       id="polygon33" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 1250,-1542.6378 -150,-380 -69,0 183.012,471.17 -189.012,478.83 75,0 150.482,-384.937 149.518,384.937 75,0 -188.409,-477.304 184.789,-472.696 -71.38,0 z"
+       id="polygon35" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 2100,-922.6378 -76,0 0.631,599.201 375.369,-183.947 0,534.746 75,0 0.563,-662.028 -374.97,184.381 -0.593,0.989 z"
+       id="polygon37" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 3452,-1422.6378 0,-87.848 -152,-75.457 0,-336.695 -75,0 0,299.464 -152,-74.464 0,86.897 152,75.84 0,562.263 75,0.012 0,-524.854 z"
+       id="polygon39" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 525,27.3622 375,-250 0,250 75,0 0,-400 -375,250 0,-650 375,250 0,-400 -75,0 0,250 -375,-250 z"
+       id="polygon41" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 3025,-922.6378 0,950 76,0 0,-885 12.17,0 183.931,154.35 119.899,336.27 0,394.38 65,0 0,-405.621 -129.601,-363.479 -215.569,-180.9 z"
+       id="polygon45" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       id="path47"
+       d="M 1787,343.4732 V 77.3622 h -75 v 267.223 l -187,207.777 187,187 v 288 h 75 v -287 l 188,-188 -188,-208.889 z M 1607.679,550.1882 1712,434.2762 v 220.232 l -104.321,-104.32 z M 1787,433.1652 1892.321,550.1882 1787,655.5082 v -222.343 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 2350,552.3622 -325,225 325,250 109,0 -309,-250 325,-225 -325,-250 325,-225 -150,0 -300,225 z"
+       id="polygon49" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 1287,77.3622 -75,0.012 0,271.988 -112,-272 -75,0 187,448.8 0,501.2 75,0 0,-498.8 188,-451.2 -75,0 -113,274.429 z"
+       id="polygon51" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       id="path53"
+       d="m 475,27.3622 -181.25,-335.648 156.25,-289.352 -200,-325 -200,325 156.25,289.352 L 25,27.3622 h 87.5 l 137.5,-254.63 137.5,254.63 H 475 z m -337.5,-625 112.5,-187.5 112.5,187.5 -112.5,208.333 -112.5,-208.333 z" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       d="m 1911.5,-2922.6378 -161.752,393.146 -162.248,-393.146 H 1525 l 1,950 h 61 v 0.023 l 162.5,-387.512 162.5,387.5 v -0.011 l 63,0.012 v -950 l -63.5,-0.012 z m -324.5,787.512 v -612.5 l 127.201,303.326 -127.201,309.174 z m 198.1,-308.701 126.587,-301.87 0.642,610.155 -127.229,-308.285 z"
+       id="path55" />
+    <path
+       style="fill:#040000"
+       inkscape:connector-curvature="0"
+       d="m 2911.5,-1922.6378 h -0.25 l -161.936,293.408 -162.314,-293.42 -62,0.012 v 950 h 62 l 0.5,-262.5 165.643,-274.944 159.357,274.944 v 262.5 h 62.5 v -950 h -63.5 z m -324.117,575.688 -0.383,-450.688 125.5,225 -125.117,225.688 z m 200.117,-225.688 125,-225 v 450 l -125,-225 z"
+       id="path57" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#040000"
+       d="m 2975,-697.6378 -225,-225 -225,225 0,100 187,-187 0,811.988 75,0.012 0,-813 188,188 z"
+       id="polygon53" />
+  </g>
+</svg>
