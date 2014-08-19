@@ -32,26 +32,26 @@ pqrstuvwxyz{|}‾
 
 ##フォントのライセンス
 大まかな説明：  
- イラスト・デザインに自由に使うことができます。ただし、責任は使用者が負うこととします。  
- また、フォントそのものを再配布する場合は、かならずライセンス・取得元URL・フォント追加を含めてアップデートされる場合がある旨を表記してください。  
- 使用・紹介してくださったことを事後連絡していただけると嬉しいです(もちろん、これは義務ではありません)。  
+ イラスト・デザインに使用する場合、自由に使うことができます。ただし、責任は使用者が負うこととします。  
+ また、フォント自体を再配布する場合、かならず『ライセンス・取得元URL・フォント追加を含めてアップデートされる場合がある旨』を表記し、配布元ページをリンクしてください。  
+ フォントを紹介する目的であれば、プロジェクトに含まれる画像ファイルは自由に使用してください。  
  ライセンスは予告なく変更される場合があります  
-(というか、わかりやすく整理する予定です。  
- が、絵かきの方は気にせず自由に使ってください)。  
- 素材元としての記載・見本・献本も喜びます(もちろん、これも義務ではありません)。  
+ 使用・紹介してくださったことを事後連絡していただけると嬉しいです(もちろん、これは義務ではありません)。  
+ 素材元としての記載や見本・献本も喜びます(もちろん、これも義務ではありません)。  
 
 
 詳しい説明:  
- 使用者は以下の２つから選択することができます。  
+ イラスト・デザインへフォントを使用する方は、ライセンスを以下の２つのうちから選択することができます。  
 　1. 2条項BSDライセンス(2-clause BSD license)  
-　または  
-　2. イラストで使用したフォントについて明記しない場合などはこちら。  
-　 フォント作者が負うこととなる責任を使用者が負うことを条件として、2条項BSDライセンスから下記の条項を取り除いたもの。  
-　  「バイナリ形式で再頒布する場合、頒布物に付属のドキュメント等の資料に、上記の著作権表示、本条件一覧、および下記免責条項を含めること。」  
-　  2条項BSDライセンスが破られていた場合、自動的にこちらのライセンスが適用されるものとする。  
+　または、  
+　2. イラスト・デザインにこのフォントを使用し、フォントについて出自を明記しない場合などは、こちら。  
+  『本ソフトウェアは、著作権者およびコントリビューターによって「現状のまま」提供されており、明示黙示を問わず、商業的な使用可能性、および特定の目的に対する適合性に関する暗黙の保証も含め、またそれに限定されない、いかなる保証もありません。著作権者もコントリビューターも、事由のいかんを問わず、 損害発生の原因いかんを問わず、かつ責任の根拠が契約であるか厳格責任であるか（過失その他の）不法行為であるかを問わず、仮にそのような損害が発生する可能性を知らされていたとしても、本ソフトウェアの使用によって発生した（代替品または代用サービスの調達、使用の喪失、データの喪失、利益の喪失、業務の中断も含め、またそれに限定されない）直接損害、間接損害、偶発的な損害、特別損害、懲罰的損害、または結果損害について、一切責任を負わないものとします。』  
+　  2条項BSDライセンスが適用されない場合、自動的にこちらのライセンスが適用されるものとする。  
 
 どちらの場合も、画像(.jpgなど)およびフォントのバイナリを含む画像生成データ(.aiファイルなど)は「バイナリ形式」として扱います。  
-また同じく、どちらの場合も、フォントファイルは「ソースコード形式」として扱います  
+また同じく、どちらの場合も、フォントファイルは「ソースコード形式」として扱います。  
+
+改変したフォントの再配布を行いたい場合は、作者に事前に連絡を取ってください。
 
 
 ##フォント以外のライセンス
@@ -60,7 +60,7 @@ pqrstuvwxyz{|}‾
 『mashabow＠しろもじ作業室（http://shiromoji.net, mashabow@shiromoji.net）』  
 様の公開してくださっているスクリプトを元に作成したものです。  
 この部分のライセンスについては「不明」です。  
-また、[サンプル][ghpages_index]で使用している画像は、このフォントを紹介する際は自由に使ってください。  
+また、[サンプル][ghpages_index]で使用している画像など、プロジェクトに含まれる画像は、このフォントを紹介する際は自由に使ってください。  
 
 
 ##フォント制作手順
@@ -102,7 +102,7 @@ http://www.slowgun.org/abc/ts12.html
 
 
 
-##BSDライセンス
+##BSDライセンス (2条項BSDライセンス(2-clause BSD license))
 
 Copyright (c) 2014, Michinari Nukazawa  
 All rights reserved.  
@@ -137,9 +137,12 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS  
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  
 
-##LICENSE About
-Select to 2-clause BSD license or other.  
-"other" to please read Japanese license text.  
+##LICENCE About
+Please read Japanese licence text.  
+Font use illustration and design to Select to "2-clause BSD license" or "free".  
+Font introduces can use this project included image files. and please notation "Licence", "Creater"
+ and mean to "Have possibilities update, add new font and other. prease read original page.", and link this page.  
+Font file redistribution to please read Japanese licence text.  
 
 ##連絡先
 michinari.nukazawa@gmail.com
