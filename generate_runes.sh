@@ -13,4 +13,10 @@ for FontName in ${FontNames[@]}; do
 	fontforge -script "$ThisPath/generate_rune.pe" $FontName $Version
 done
 
+# 配布版zipを生成する
+nameFontSeries="RuneAssignMN"
+pathScript="${ThisPath}/mkzip_free_distribution.sh"
+if [ -e $pathScript ] ; then
+	bash $pathScript $nameFontSeries $Version
+fi
 
