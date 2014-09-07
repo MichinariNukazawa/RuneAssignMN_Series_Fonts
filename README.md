@@ -151,4 +151,4 @@ Font file redistribution to please read Japanese licence text.
 
 [ghpages_index]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/
 [blog_article]: http://blog.michinari-nukazawa.com/
-[mailto]: mailto://blog.michinari.nukazawa@gmail.com
+[mailto]: mailto:michinari.nukazawa@gmail.com
