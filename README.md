@@ -9,7 +9,7 @@ RuneAssignMN Series Fonts. イラスト・デザイン向けルーン文字フ�
 ふつうの英文にこのフォントを使用するだけで、簡単にルーンで書かれた文章を"でっちあげる"ことができます。  
 
 フォントのデザインは[サンプル][ghpages_index]ページで見ることができます。  
-また、[ブログ記事][blog_article]が用意される予定です。  
+また、[ブログ記事][blog_article]も用意しました。  
 
 
 ##より専門的な説明
@@ -78,7 +78,7 @@ pqrstuvwxyz{|}‾
  * グリフSVGファイルの入ったディレクトリを"glyph_${フォント名}"にリネーム
  * グリフ生成スクリプト(generate_rune.pe)でフォントを生成
  (または一括呼び出しスクリプト(generate_runes.sh)を起動してフォントを生成)  
-詳細は[ブログ記事][blog_article](予定)を参照してください。  
+
 
 ##謝辞
 以下のサイトを参考にさせていただきました。  
@@ -154,5 +154,5 @@ Font file redistribution to please read Japanese licence text.
 
 Develop by Michinari.Nukazawa, in Project "daisy bell".
 [ghpages_index]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/
-[blog_article]: http://blog.michinari-nukazawa.com/
+[blog_article]: http://blog.michinari-nukazawa.com/2014/08/rune-original-free-font-release.html
 [mailto]: mailto:michinari.nukazawa@gmail.com
