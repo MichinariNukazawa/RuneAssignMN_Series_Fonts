@@ -1,7 +1,6 @@
-RuneAMN Series Fonts  
-イラスト・デザイン向けルーン文字フォント
+RuneAMN Series Fonts
 ====
-
+イラスト・デザイン向けルーン文字フォント
 
 ## 概要
 ルーン文字のフォントです。  
