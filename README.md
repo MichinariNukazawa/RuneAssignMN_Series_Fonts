@@ -1,4 +1,5 @@
-RuneAMN Series Fonts. イラスト・デザイン向けルーン文字フォント
+RuneAMN Series Fonts  
+イラスト・デザイン向けルーン文字フォント
 ====
 
 
