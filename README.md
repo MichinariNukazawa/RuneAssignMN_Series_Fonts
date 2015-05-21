@@ -1,18 +1,21 @@
-RuneAssignMN Series Fonts. イラスト・デザイン向けルーン文字フォント
+RuneAMN Series Fonts. イラスト・デザイン向けルーン文字フォント
 ====
 
-##概要
+
+## 概要
 ルーン文字のフォントです。  
 イラスト・デザイン向けに、簡単に使えるルーン文字フォントとして作成しました。  
+商用可。  
+本フォントは[project daisy bell][pixiv_booth]によるフォント製品です。  
 
 ラテン・アルファベットの"A〜z"にルーン文字を割り当ててあります。  
-ふつうの英文にこのフォントを使用するだけで、簡単にルーンで書かれた文章を"でっちあげる"ことができます。  
+ふつうの英文にこのフォントを使用することで、ルーンで書かれた文章をデザインに使用することがとても簡単になります。  
 
 フォントのデザインは[サンプル][ghpages_index]ページで見ることができます。  
 また、[ブログ記事][blog_article]も用意しました。  
 
 
-##より専門的な説明
+## より専門的な説明
 A-z以外の記号を含むLatin1の領域は半角空白で埋めてあるため、記号はすべて空白になり表示されません。  
 これは、ライセンスフリーな英文の長文を用意すれば、本フォントを適用するだけで、ルーン文字のみで書かれた文に見える絵が作れるということです。  
 ライセンスフリーな英文に適用すればルーン文字のみで書かれた文に見える絵を用意することができます。  
@@ -31,45 +34,59 @@ PQRSTUVWXYZ[¥]^_
 `abcdefghijklmno  
 pqrstuvwxyz{|}‾  
 
-##フォントのライセンス
-おおまかな説明：  
- イラスト・デザインに使用する場合、自由に使うことができます。ただし、責任は使用者が負うこととします。  
+
+## License
+フォントのライセンス  
+
+# おおまかな説明
+ イラスト・デザインに使用する場合、自由に使うことができます。  
+ 商用可。  
  ライセンスは予告なく変更される場合があります  
- ライセンスについて、よくわからない場合は、気軽に作者へ[メール(michinari.nukazawa@gmail.com)][mailto]にて、お問い合わせください。  
-  
- 使用・紹介してくださったことを事後連絡していただけると嬉しいです(もちろん、これは義務ではありません)。  
- 素材元としての記載や見本・献本も喜びます(もちろん、これも義務ではありません)。  
- フォントを紹介する目的であれば、プロジェクトに含まれる画像ファイルを自由に使用することができます。  
  
- フォント自体を再配布する場合、かならず[プロジェクトのページ][ghpages_index]をリンクしてください。  
- また、ライセンスおよび『プロジェクトページにて、フォントの追加を含めて、最新版にアップデートされている場合がある』旨を記載してください。  
+# お願い
+ 下記の項目は、ライセンスに含まれないので義務ではありません。  
+ * 本フォント製品の表記またはクレジットを歓迎いたします。  
+   形式は問いません。例としては以下のようになります。  
+   『使用書体： RuneAMN series font Free』  
+   『Glyph designed by "project daisy bell"』  
+ * RuneAMNフォントを採用していただいたあなたの作品を、「採用事例」として紹介して良いようでしたら、ぜひご連絡ください。  
+ ([メール(michinari.nukazawa@gmail.com)][mailto])
+ * 使用してくださったことを教えていただけると嬉しいです。  
+ * 見本・献本を歓迎いたします。  
+
+ * フォント自体を再配布する場合、可能であれば[プロジェクトのページ][ghpages_index]をリンクしてください。  
+ * その際、『プロジェクトページにて、フォントの追加を含めたアップデートが行われている場合がある』旨を記載していただければと思います。  
+
+ 
+# 詳しい説明
+  本フォント製品はデュアルライセンスです。(どちらか好きな方を選択してください。)  
+  1. 『2条項BSDライセンス(2-clause BSD license)』
+  2. 下記の『daisy_AMNフリーフォントライセンス(daisy_ANM free font license)』
+  2条項BSDライセンス(2-clause BSD license)についてはWeb上のをご参照ください。  
+ ライセンスについて、よくわからない場合は、気軽に作者へ[メール(michinari.nukazawa@gmail.com)][mailto]にて、お問い合わせください。  
+
+# daisy_AMN free font license
+ * 商用可
+ * 連絡の義務なし
+ * 表記およびクレジット等の義務なし
+ * 許可無く再配布することができます。ただし、公式のzipアーカイブにより配布すること。改変を禁じます
+ * 下記条項に同意すること
+ 『本ソフトウェアは、著作権者およびコントリビューターによって「現状のまま」提供されており、明示黙示を問わず、商業的な使用可能性、および特定の目的に対する適合性に関する暗黙の保証も含め、またそれに限定されない、いかなる保証もありません。著作権者もコントリビューターも、事由のいかんを問わず、 損害発生の原因いかんを問わず、かつ責任の根拠が契約であるか厳格責任であるか（過失その他の）不法行為であるかを問わず、仮にそのような損害が発生する可能性を知らされていたとしても、本ソフトウェアの使用によって発生した（代替品または代用サービスの調達、使用の喪失、データの喪失、利益の喪失、業務の中断も含め、またそれに限定されない）直接損害、間接損害、偶発的な損害、特別損害、懲罰的損害、または結果損害について、一切責任を負わないものとします。』  
 
 
-詳しい説明:  
- イラスト・デザインへフォントを使用する方は、ライセンスを以下の２つのうちから選択することができます。  
-　"1"が適用されない場合、自動的に"2"が適用されるものとする。  
-　1. 2条項BSDライセンス(2-clause BSD license)  
-　または、  
-　2. イラスト・デザインにこのフォントを使用し、フォントについて出自を明記しない場合などは、下記に同意したものとします。  
-  『本ソフトウェアは、著作権者およびコントリビューターによって「現状のまま」提供されており、明示黙示を問わず、商業的な使用可能性、および特定の目的に対する適合性に関する暗黙の保証も含め、またそれに限定されない、いかなる保証もありません。著作権者もコントリビューターも、事由のいかんを問わず、 損害発生の原因いかんを問わず、かつ責任の根拠が契約であるか厳格責任であるか（過失その他の）不法行為であるかを問わず、仮にそのような損害が発生する可能性を知らされていたとしても、本ソフトウェアの使用によって発生した（代替品または代用サービスの調達、使用の喪失、データの喪失、利益の喪失、業務の中断も含め、またそれに限定されない）直接損害、間接損害、偶発的な損害、特別損害、懲罰的損害、または結果損害について、一切責任を負わないものとします。』  
+## フォント以外のライセンス
+[サンプル][ghpages_index]など、プロジェクトに含まれる画像ファイルは、このフォントを紹介する目的であれば、自由に使用することができます。  
+フォントおよびフォント画像・形状以外の付属物で、ライセンスが明示されていないものは、2条項BSDライセンス(2-clause BSD license)とします。  
 
-どちらの場合も、画像(.jpgなど)およびフォントのバイナリを含む静的な画像生成データ(.aiファイルなど)は「バイナリ形式」として扱います。  
-また同じく、どちらの場合も、フォントファイルは「ソースコード形式」として扱います。  
-
-改変したフォントの再配布を行いたい場合、または、その他の使用法でライセンスがわからない場合は、
-メールにて事前に[作者に連絡(michinari.nukazawa@gmail.com)][mailto]を取ってください。  
-
-
-##フォント以外のライセンス
-フォントおよびフォント画像・形状以外の付属物は、2条項BSDライセンス(2-clause BSD license)とします。  
-ただし、スクリプトは  
+ただし、スクリプトのうち"half_split_svg.pl"は  
 『mashabow＠しろもじ作業室（http://shiromoji.net, mashabow@shiromoji.net）』  
-様の公開してくださっているスクリプトを元に作成したものです。  
+様の公開してくださっているスクリプトを元に改変したものです。  
 この部分のライセンスについては「不明」です。  
-また、[サンプル][ghpages_index]で使用している画像など、プロジェクトに含まれる画像は、このフォントを紹介する際、自由に使うことができます。  
+
+ライセンスについての不明点があれば、気軽に作者へ[メール(michinari.nukazawa@gmail.com)][mailto]にて、お問い合わせください。  
 
 
-##フォント制作手順
+## フォント制作手順
 全自動ではなく、手作業が含まれています。  
 作業環境はIllustraterを除いてLinux(Ubuntu14.04)を想定しています。  
  * Illustraterでフォントデザイン
@@ -81,7 +98,7 @@ pqrstuvwxyz{|}‾
  (または一括呼び出しスクリプト(generate_runes.sh)を起動してフォントを生成)  
 
 
-##謝辞
+## 謝辞
 以下のサイトを参考にさせていただきました。  
 
 しろもじ作業室 の日本語かなフォント作成記事とスクリプト  
@@ -107,9 +124,7 @@ IllustraterABC TIPSページの補填記事のIllustraterの設定
 http://www.slowgun.org/abc/ts12.html
 
 
-
-##BSDライセンス (2条項BSDライセンス(2-clause BSD license))
-
+## 2条項BSDライセンス(2-clause BSD license)
 Copyright (c) 2014, Michinari Nukazawa  
 All rights reserved.  
 ソースコード形式かバイナリ形式か、変更するかしないかを問わず、以下の条件を満たす場合に限り、再頒布および使用が許可されます。  
@@ -143,17 +158,20 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS  
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  
 
-##LICENCE About
-Please read Japanese licence text.  
-Font use illustration and design to Select to "2-clause BSD license" or "free".  
-Font introduces can use this project included image files. and please notation "Licence", "Creater"
- and mean to "Have possibilities update, add new font and other. prease read original page.", and link this page.  
-Font file redistribution to please read Japanese licence text.  
 
-##連絡先
+## LICENSE About
+Please read Japanese license text.  
+Font use illustration and design to Select to "2-clause BSD license" or "daisy_ANM free font license"(original).  
+Font introduces can use this project included image files. and please notation "License", "Creater"
+ and mean to "Have possibilities update, add new font and other. prease read original page.", and link this page.  
+Font file redistribution to please read Japanese license text.  
+
+
+## 連絡先
 [michinari.nukazawa@gmail.com][mailto]
 
 Develop by Michinari.Nukazawa, in Project "daisy bell".
 [ghpages_index]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/
 [blog_article]: http://blog.michinari-nukazawa.com/2014/08/rune-original-free-font-release.html
 [mailto]: mailto:michinari.nukazawa@gmail.com
+[pixiv_booth]: https://daisy-bell.booth.pm/
