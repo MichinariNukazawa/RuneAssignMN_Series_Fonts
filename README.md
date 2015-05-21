@@ -60,8 +60,8 @@ pqrstuvwxyz{|}‾
  
 #### 詳しい説明
   本フォント製品はデュアルライセンスです。(どちらか好きな方を選択してください。)  
-  1. 『2条項BSDライセンス(2-clause BSD license)』
-  2. 下記の『daisy_AMNフリーフォントライセンス(daisy_ANM free font license)』
+  1: 『2条項BSDライセンス(2-clause BSD license)』  
+  2: 下記の『daisy_AMNフリーフォントライセンス(daisy_ANM free font license)』  
 
   2条項BSDライセンス(2-clause BSD license)についてはWeb上にある原文をご参照ください。  
  ライセンスについて、よくわからない場合は、気軽に作者へ[メール(michinari.nukazawa@gmail.com)][mailto]にて、お問い合わせください。  
