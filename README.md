@@ -89,6 +89,9 @@ pqrstuvwxyz{|}‾
 
 
 ## フォント制作手順
+お知らせ： RuneAMN_SeriesFontsは、ビルドシステムを[RuneAMN_Pro_Series_Fonts][ghpages_RuneAMN_Pro_Series_Fonts](同BSDライセンス)に移行しました。
+ここに置かれているビルドシステムは旧版となりました。
+
 全自動ではなく、手作業が含まれています。  
 作業環境はIllustraterを除いてLinux(Ubuntu14.04)を想定しています。  
 
@@ -173,9 +176,12 @@ Font file redistribution to please read Japanese license text.
 
 ## 連絡先
 [michinari.nukazawa@gmail.com][mailto]
+[Contacts(other)][ghpages_MichinariNukazawa]
 
 Develop by Michinari.Nukazawa, in Project "daisy bell".
 [ghpages_index]: http://michinarinukazawa.github.io/RuneAssignMN_Series_Fonts/
 [blog_article]: http://blog.michinari-nukazawa.com/2014/08/rune-original-free-font-release.html
 [mailto]: mailto:michinari.nukazawa@gmail.com
 [pixiv_booth]: https://daisy-bell.booth.pm/
+[ghpages_RuneAMN_Pro_Series_Fonts]: http://michinarinukazawa.github.io/RuneAMN_Pro_Series_Fonts/docs/runeamn_pro.html
+[ghpages_MichinariNukazawa]: https://github.com/MichinariNukazawa/MichinariNukazawa.github.io
